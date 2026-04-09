@@ -188,9 +188,11 @@ sentence_divider.py
 
 ---
 
-**Author:** Md Ashikuzzaman, East West University 
+ 
 
 ##  License
+
+**Author:** Md Ashikuzzaman, East West University
 
 This project was developed as a mini project for **CSE360 — Computer Architecture, Spring 2026**.  
 Free to use for educational purposes.
